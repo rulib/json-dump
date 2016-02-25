@@ -1,1 +1,19 @@
-[{"id":0,"imageLink":"https://s3.amazonaws.com/freecodecamp/funny-cat.jpg","codeNames":["Juggernaut","Mrs. Wallace","Buttercup"]},{"id":1,"imageLink":"https://s3.amazonaws.com/freecodecamp/grumpy-cat.jpg","codeNames":["Oscar","Scrooge","Tyrion"]},{"id":2,"imageLink":"https://s3.amazonaws.com/freecodecamp/mischievous-cat.jpg","codeNames":["The Doctor","Loki","Joker"]}]
+[
+
+{
+	"id":0,
+	"quoteAuthor":"Thomas Jefferson",
+	"quoteText":"There is a natural aristocracy among men. The grounds of this are virtue and talents."
+},
+{
+	"id":1,
+	"quoteAuthor":"Ernest Hemingway",
+	"quoteText":"All our words from loose using have lost their edge."
+},
+{
+	"id":2,
+	"quoteAuthor":"Soren Kierkegaard",
+	"quoteText":"Life is not a problem to be solved, but a reality to be experienced."
+}
+
+]
