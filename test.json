@@ -3,17 +3,71 @@
 {
 	"id":0,
 	"quoteAuthor":"Thomas Jefferson",
-	"quoteText":"There is a natural aristocracy among men. The grounds of this are virtue and talents."
+	"quoteText":"There is a natural aristocracy among men. The grounds of this are virtue and talents.",
+	"bgcolor":"#000099",
+	"wellcolor":"#0000e6"
 },
 {
 	"id":1,
 	"quoteAuthor":"Ernest Hemingway",
-	"quoteText":"All our words from loose using have lost their edge."
+	"quoteText":"All our words from loose using have lost their edge.",
+	"bgcolor":"#009933",
+	"wellcolor":"#00cc44"
 },
 {
 	"id":2,
 	"quoteAuthor":"Soren Kierkegaard",
-	"quoteText":"Life is not a problem to be solved, but a reality to be experienced."
+	"quoteText":"Life is not a problem to be solved, but a reality to be experienced.",
+	"bgcolor":"#800000",
+	"wellcolor":"#b30000"
+}
+{
+	"id":3,
+	"quoteAuthor":"Babe Ruth",
+	"quoteText":"Every strike brings me closer to the next home run.",
+	"bgcolor":" #009900",
+	"wellcolor":" #00cc00"
+{
+	"id":4,
+	"quoteAuthor":"Frank Zappa",
+	"quoteText":"The bassoon is one of my favorite instruments. It has a medieval aroma, like the days when everything used to sound like that. Some people crave baseball...I find this unfathomable, but I can easily understand why a person could get excited about playing the bassoon.",
+	"bgcolor":"#994d00",
+	"wellcolor":"#cc6600"
+}
+{
+	"id":5,
+	"quoteAuthor":"Simone Weil",
+	"quoteText":"Imaginary evil is romantic and varied; real evil is gloomy, monotonous, barren, boring. Imaginary good is boring; real good is always new, marvelous, intoxicating.",
+	"bgcolor":" #ff9933",
+	"wellcolor":"#ffb366"
+}
+{
+	"id":6,
+	"quoteAuthor":"Henry Adams",
+	"quoteText":"I know of nothing useful in life except what is beautiful or creates beauty.",
+	"bgcolor":"#3d3d5c",
+	"wellcolor": "#a3a3c2"
+}
+{
+	"id":7,
+	"quoteAuthor":"Boutros Boutros-Ghali",
+	"quoteText":"While the broad principles of democracy are universal, the fact remains that their application varies considerably … We are at the beginning of the road, at the very beginning. We still have a long way to go.",
+	"bgcolor":"#000066",
+	"wellcolor":"#9999ff"
+}
+{
+	"id":8,
+	"quoteAuthor":"W. E. B. Du Bois",
+	"quoteText":"Herein lies the tragedy of the age: not that men are poor,— all men know something of poverty; not that men are wicked — who is good? not that men are ignorant, — what is Truth? Nay, but that men know so little of men.",
+	"bgcolor":"#336699",
+	"wellcolor":"#b3cce6"
+}
+{
+	"id":9,
+	"quoteAuthor":"Isaac Asimov",
+	"quoteText":"If I were not an atheist, I would believe in a God who would choose to save people on the basis of the totality of their lives and not the pattern of their words. I think he would prefer an honest and righteous atheist to a TV preacher whose every word is God, God, God, and whose every deed is foul, foul, foul.",
+	"bgcolor":"#4d0000",
+	"wellcolor":"#ffb3b3"
 }
 
 ]
